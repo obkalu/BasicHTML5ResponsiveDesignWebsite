@@ -2,6 +2,7 @@
 .vscode
 node_modules
 jspm_packages
+temp
 npm-debug.*
 link-checker-results.txt
 
